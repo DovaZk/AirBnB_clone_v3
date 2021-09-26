@@ -154,7 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Joel Silva - [Github](https://github.com/DovaZk) / [Twitter](https://twitter.com/DiyeiJowell)  
+Joel Silva - [Github](https://github.com/DovaZk) / [Twitter](https://twitter.com/DiyeiJowell)
+
+Sergio Monroy - [Github](https://github.com/giosermon)
 
 Second part of Airbnb: Joann Vuong
 ## License
